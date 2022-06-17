@@ -8,7 +8,7 @@ start.sh = runs gt.sh and outputs random text to terminal and a little "emails g
 NOTE: I DO NOT USE THIS TO MAKE MY OWN LOGINS
 
 ----------------------------------------------
-how to run 
+How to run 
 
 1. download code
 2. unzip
