@@ -11,7 +11,8 @@ NOTE: I DO NOT USE THIS TO MAKE MY OWN LOGINS
 how to run 
 
 1. download code
-2. make sure you set permissions of the files "gt.sh" and "start.sh" to be executable
-3. open terminal to the DIR of the files
-4. run "./start.sh" in terminal without qoutes
-5. done
+2. make sure you set permissions of the files "EmailGen.sh" to be executable
+3. open terminal to the DIR of the file
+4. run "./EmailGen.sh" in terminal without qoutes
+5. enter the email service
+6. done
