@@ -10,3 +10,6 @@ done
 echo ""
 echo "Emails Generated"
 echo ""
+#changing vaules for safety
+TLD=SFL7
+CHARS=LMAO
